@@ -1,0 +1,6 @@
+{
+  "name": "RAB Perpisahan Al-Achdan",
+  "description": "Aplikasi Pengajuan dan Verifikasi RAB Kepanitiaan Perpisahan Al-Achdan dengan fitur multi-akun, monitoring realisasi, dan ekspor dokumen A4/F4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
